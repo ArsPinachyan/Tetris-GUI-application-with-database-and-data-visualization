@@ -19,9 +19,9 @@ Unlike a basic Tetris implementation, this project provides a complete applicati
 ![Options](screenshots/options_page.png)
 
 ### Statistics
-![Statistics](screenshots/statistics.png)
+![Statistics (1st photo)][https://www.magnific.com/icons/network-analysis](screenshots/statistics.png)
 
-![Statistics](screenshots/statistics2.png)
+![Statistics (2nd photo)][https://www.magnific.com/icons/network-analysis](screenshots/statistics2.png)
 
 ---
 
