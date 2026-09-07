@@ -28,7 +28,7 @@ Unlike a basic Tetris implementation, this project provides a complete applicati
 
 ## 🎥 Project Demo
 
-[![Tetris Project Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://drive.google.com/file/d/1Ewb3ZdA_lBo-T0MwadJExWXsNLJvJY1D/view?usp=drive_link))
+[![Tetris Project Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1Ewb3ZdA_lBo-T0MwadJExWXsNLJvJY1D/view?usp=sharing)
 
 ---
 
