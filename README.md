@@ -4,6 +4,31 @@ A feature-rich **Tetris GUI application** built with Python, combining the class
 
 Unlike a basic Tetris implementation, this project provides a complete application ecosystem where users can register, play multiple game sessions, store their results, review their gaming history, analyze their performance through visualizations, and customize their gaming experience.
 
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main_menu.png)
+
+### Tetris Gameplay
+![Gameplay](screenshots/gameplay.png)
+
+### Game History
+![Game History](screenshots/history_page.png)
+
+### Options
+![Options](screenshots/options_page.png)
+
+### Statistics
+![Statistics](screenshots/statistics.png)
+
+![Statistics](screenshots/statistics2.png)
+
+---
+
+## 🎥 Project Demo
+
+[![Tetris Project Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://drive.google.com/file/d/1Ewb3ZdA_lBo-T0MwadJExWXsNLJvJY1D/view?usp=drive_link))
+
 ---
 
 ## ✨ Features
@@ -100,18 +125,19 @@ The project combines several components into a single GUI application:
 
 A possible project structure is:
 
-```text
-Tetris/
-│
+```textTetris/
 ├── menu_v1.py
+├── button_ver1.py
+├── tetris_v1.py
 ├── testing.sql
-│
-├── [other Python source files]
-├── [game assets]
-│   ├── music/
-│   └── sounds/
-│
-└── README.md
+├── README.md
+└── screenshots/
+    ├── main_menu.png
+    ├── options_page.png
+    ├── gameplay.png
+    ├── history_page.png
+    └── statistics.png
+    └── statistics2.png
 ```
 
 > The exact structure may vary depending on the organization of the project files.
